@@ -1,3 +1,23 @@
 .navbar {
-    
+    position: fixed;
+    top: 0;
+    background-color: #f8f8f8;
+    border-color: #e7e7e7;
+    width: 100%;
+    z-index: 55;
+    padding-left: 55px;
+    padding-right: 55px;
+    box-shadow: 0 0px 0px rgba(0, 0, 0, .28), 0 2px 6px rgba(0, 0, 0, .23);
+    display: inline-block;
+
+    .logo-img {
+        width: 8em;
+        float: left;
+    }
+
+    .links {
+        float: right;
+        list-style-type: none;
+        display: inline-flex;
+    }
 }
