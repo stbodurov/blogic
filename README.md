@@ -5,8 +5,8 @@
   margin-right: auto;
   width: 30%;">
 
-<p><b>Blogic</b> is a community driven marketplace made for both buyers and merchants. <br /> 
-All you need to start shopping and selling is to sign up.</p>
+<p><b>Blogic</b> is a technology-focused blog application. <br /> 
+Contributing is as easy as signing up.</p>
 
 ## Technological Stack
 
@@ -17,6 +17,7 @@ All you need to start shopping and selling is to sign up.</p>
 ## Getting started
 
 A live version is available at https://blogic.web.app/
+<br>
 Additionally, a production build is available in the 'dist' directory.
 
 ## Supported functionalities
@@ -30,7 +31,7 @@ Additionally, a production build is available in the 'dist' directory.
 - /home
 - /login
 - /register
-
+<br /> <br />
 - <b>Accessible by registered users:</b>
 - /home
 - /add
