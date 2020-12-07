@@ -1,27 +1,38 @@
-# Joinin
+# blogic
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
+<img src="" alt="blogic demo" style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;">
 
-## Development server
+<p><b>Blogic</b> is a community driven marketplace made for both buyers and merchants. <br /> 
+All you need to start shopping and selling is to sign up.</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Technological Stack
 
-## Code scaffolding
+- Angular
+- Firebase
+- Sass
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Getting started
 
-## Build
+A live version is available at https://blogic.web.app/
+Additionally, a production build is available in the 'dist' directory.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Supported functionalities
 
-## Running unit tests
+- <b>Guest</b> users are capable of viewing the most recently added blogposts. An account is necessary for further interaction.
+- <b>Logged in</b> users can view all posts as well as add and modify their own. They can react and leave comments to other users' content.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Routes
 
-## Running end-to-end tests
+- <b>Accessible by guest users:</b>
+- /home
+- /login
+- /register
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- <b>Accessible by registered users:</b>
+- /home
+- /add
+- /view/:id
+- /myprofile
