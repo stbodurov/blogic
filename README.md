@@ -36,4 +36,5 @@ Additionally, a production build is available in the 'dist' directory.
 - /home
 - /add
 - /view/:id
-- /myprofile
+- /edit/:id
+- /profile
