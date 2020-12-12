@@ -1,9 +1,6 @@
-# blogic
+<img src="./src/assets/img/blogic-logo.png" alt="blogic logo" width="150">
 
-<img src="" alt="blogic demo" style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 30%;">
+<img src="" alt="blogic demo">
 
 <p><b>Blogic</b> is a technology-focused blog application. <br /> 
 Contributing is as easy as signing up.</p>
