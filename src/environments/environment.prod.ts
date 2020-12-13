@@ -1,8 +1,10 @@
 export const environment = {
   production: true,
-  firebase: {
+
+  firebaseConfig: {
     apiKey: "AIzaSyCWtePKODD4BB1Ae_yvWbtABrNQKV-Xus0",
     authDomain: "blogic-a7c0b.firebaseapp.com",
+    databaseURL: "https://blogic-a7c0b-default-rtdb.europe-west1.firebasedatabase.app",
     projectId: "blogic-a7c0b",
     storageBucket: "blogic-a7c0b.appspot.com",
     messagingSenderId: "363419214878",
