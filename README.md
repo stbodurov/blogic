@@ -1,8 +1,7 @@
-<img src="./src/assets/img/blogic-logo.png" alt="blogic logo" width="150">
+# Blogic
+<img src="./assets/blogic-demo.png" alt="blogic demo">
 
-<img src="" alt="blogic demo">
-
-<p><b>Blogic</b> is a technology-focused blog application. <br /> 
+<p><b>Blogic</b> is a community-driven blog application. <br /> 
 Contributing is as easy as signing up.</p>
 
 ## Technological Stack
