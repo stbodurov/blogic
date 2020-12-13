@@ -8,7 +8,7 @@ Contributing is as easy as signing up.</p>
 
 - Angular
 - Firebase
-- Sass
+- RxJs
 
 ## Getting started
 
