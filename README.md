@@ -12,7 +12,7 @@ Contributing is as easy as signing up.</p>
 
 ## Getting started
 
-A live version is available at https://blogic.web.app/
+A live version is available at https://blogic-a7c0b.web.app
 <br>
 Additionally, a production build is available in the 'dist' directory.
 
